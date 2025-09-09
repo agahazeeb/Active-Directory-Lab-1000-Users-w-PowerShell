@@ -20,32 +20,31 @@ Windows Server 2019 Active Directory lab with Windows 10 client, featuring domai
 ### 1. VM Setup
 <img width="1635" height="890" alt="image" src="https://github.com/user-attachments/assets/8e508cf3-0aa0-41cc-9cd4-3a9a66c075db" />
 
-
-
 ### 2. Install Active Directory Domain Services (AD DS)
 <img width="1278" height="758" alt="image" src="https://github.com/user-attachments/assets/9b7bfd74-8b3c-41e5-9449-008ec1ee3eef" />
-
 
 ### 3. Promote Server to Domain Controller
 <img width="1290" height="767" alt="image" src="https://github.com/user-attachments/assets/1015bb5f-a7e6-47f3-9dc8-28cb236623a3" />
 
-
-### 4. Configure Organizational Units (OUs)
-<img width="1290" height="767" alt="image" src="https://github.com/user-attachments/assets/d0b99f9d-0649-40ad-9de0-fa1481e879bf" />
-
+### 4. Configuring DHCP server and scope
+<img width="1287" height="771" alt="image" src="https://github.com/user-attachments/assets/5882c4c6-d7c4-4386-9494-f6f02ac43b6c" />
 
 ### 5. Join Windows 10 Client to Domain
 <img width="1598" height="742" alt="image" src="https://github.com/user-attachments/assets/2b089349-5c31-468d-95ac-62b8f15d2800" />
 
+### 6. Configure Organizational Units (OUs)
+<img width="1290" height="767" alt="image" src="https://github.com/user-attachments/assets/d0b99f9d-0649-40ad-9de0-fa1481e879bf" />
 
-### 6. Bulk User Creation with PowerShell
+### 7. Bulk User Creation with PowerShell
 <img width="1292" height="742" alt="image" src="https://github.com/user-attachments/assets/6268712f-2645-4141-be0f-684f57a4229a" />
 
+### 8. RAS and NAT setup
+<img width="1268" height="742" alt="image" src="https://github.com/user-attachments/assets/afe6ae38-1507-4588-beea-b8687938747f" />
 
-### 7. Verification
+### 9. Verification
 <img width="1479" height="742" alt="image" src="https://github.com/user-attachments/assets/55f48fc3-a551-4bb7-b807-d6336426267a" />
 
-### 8. Lab Diagram
+### 10. Lab Diagram
 <img width="1024" height="490" alt="image" src="https://github.com/user-attachments/assets/68acfe0a-3d89-4e6f-87f3-1edb8e986fe9" />
 
 
