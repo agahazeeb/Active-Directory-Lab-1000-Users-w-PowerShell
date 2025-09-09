@@ -7,13 +7,6 @@ Windows Server 2019 Active Directory lab with Windows 10 client, featuring domai
 - **Client:** Windows 10 (domain joined)
 - **Automation:** PowerShell script for 1000 users
 
-## Project Structure
-
-├── screenshots/         
-├── scripts/
-│   └── create-users.ps1
-└── README.md
-
 ## Prerequisites
 
 - Oracle VirtualBox (or any virtualization platform)  
