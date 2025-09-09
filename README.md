@@ -44,3 +44,6 @@ Windows Server 2019 Active Directory lab with Windows 10 client, featuring domai
 
 ### 7. Verification
 ![Step 7](screenshots/07.png)
+
+
+
